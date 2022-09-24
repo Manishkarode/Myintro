@@ -330,6 +330,7 @@ font-size: 40px;
     
         font-size: 15px;
         width: 300px;
+        /* word-spacing: 5px; */
     }
     .introcontainer{
         /* width: 2em; */
@@ -341,24 +342,28 @@ font-size: 40px;
     .containerofcontact{
         width:350px;
         margin-left: 15px;
+        /* background-color: rgb(64, 151, 227); */
 
 
     }
     .containerofcontact form h1{
-        font-size: 15px;
-        width:200px;
+        margin-top: 30px;
+        font-size: 20px;
+        width:340px;
     }
     form label1 {
-        width:30px;
+        width:26px;
         height: 15px;
-        font-size: 16px;
+        font-size: 20px;
         margin-left: 10px;
+        font-weight: bold;
     }
     .subbtn{
-        margin-left: 5px;
+        margin-left: 130px;
     }
     form input{
           margin-left: 10px;
+          margin-top: 10px;
     }
 
 }
